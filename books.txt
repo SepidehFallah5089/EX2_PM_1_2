@@ -1,4 +1,4 @@
-Book@3ada9e37
-Book@73035e27
-Book@64c64813
-Book@3ecf72fd
+Programming Basics,John Doe,300,2020
+Advanced Java,Jane Smith,450,2022
+Data Structures,Alice Brown,350,2019
+Algorithms,Bob White,400,2021
